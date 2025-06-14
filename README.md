@@ -24,6 +24,15 @@ Ensuring consistency in categorical variables (eg.standardizing job level names)
 Removing any duplicates to maintain data integrity.
 Creating calculated columns and measures as needed for the analysis.
 
-##Dashboard
+## Dashboard
 ![Screenshot_PowerBI Dashboard](https://github.com/user-attachments/assets/7a95659b-f09e-4498-88ae-87bab93154f3)
+
+## Key Insights
+Team-wise Attendance: Identified the teams with the highest and lowest attendance rates.
+Manager-wise Attendance: Analyzed attendance distribution among different managers to identify patterns.
+Gender-wise Attendance: Compared attendance rates between male and female employees.
+Job Level-wise Attendance: Evaluated how attendance rates vary across different job levels.
+
+## Conclusion
+The Power BI Employee Training Dashboard provides valuable insights into employee training participation and effectiveness. By leveraging the power of data visualization, organizations can make informed decisions to enhance their training programs and ensure higher employee engagement and development.
 

@@ -23,3 +23,7 @@ Converting date columns to appropriate date formats.
 Ensuring consistency in categorical variables (eg.standardizing job level names).
 Removing any duplicates to maintain data integrity.
 Creating calculated columns and measures as needed for the analysis.
+
+##Dashboard
+![Screenshot_PowerBI Dashboard](https://github.com/user-attachments/assets/7a95659b-f09e-4498-88ae-87bab93154f3)
+
